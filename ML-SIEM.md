@@ -1,6 +1,6 @@
 # Machine Learning SIEM Script
 
-**Author:** Jasmine Shrestha
+**Author:** Ashley M. Greer, Jr
 
 ## Overview
 
